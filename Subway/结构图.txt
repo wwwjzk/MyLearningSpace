@@ -1,0 +1,40 @@
+LogoActiviy
+MainFaceActiviy
+
+MainActivity？？？
+
+1.路线图 SubwayXLTActiviy
+	CDsubwayApplication
+
+2.地铁查询 CDsubwayRouteQueryActiviy
+	LocActiviy
+	Location2poiActiviy
+    MyPoiOverlayActiviy
+
+3.站点查寻 CDsubwayStationActiviy
+    -1号线 SubwayoneActiviy
+	-2号线 SubwaytwoActiviy
+	    -地铁信息 StationInfoActiviy
+		    地铁周边信息 LocActiviy
+
+4.周边站点 MylocationnearbyActiviy
+NearbyStationActiviy？？？
+NearbySearch？？？
+RouteActiviy？？？
+RouteStepContentActivity？？？
+StationNearByActiviy？？？
+
+5.我的位置 MylocatioActiviy
+
+6.使用指南 UsehelpActiviy
+
+7.更多内容 MoreActiviy
+    -乘客须知 PassengerKnownActivity
+	-票务规定 PiaowuguidingActiviy
+	-失物招领 LostfoundActiviy
+	-票价查询 TicketpriceActiviy
+	-地铁公交 SubwaytransitActivity
+	-成都地铁服务热线
+	-成都地铁官方网站 CDhansubwayGuanwangActiviy
+	-意见反馈 FeedbackActivity
+	-使用指南 UsehelpActivity
